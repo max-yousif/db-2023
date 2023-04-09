@@ -30,8 +30,8 @@ Sorteer alfabetisch op achternaam, voornaam, aflopend op geboortejaar, alfabetis
 **Beschrijving**
 
 Maak een lijst met informatie over de Hall of Fame. 
-We willen per jaar en per groepering (de groep die stemmen uit mocht brengen) het aantal keer dat er gestemd is geweest en het gemiddelde aantal stemmen per speler voor de jaren en groeperingen waar er minstens "X" keer gestemd is geweest. 
-Voor deze lijst bekijken we echter enkel spelers die in hun carriere ook manager zijn geweest en geboren zijn na jaar "Y". 
+We willen per jaar en per groepering (de groep die stemmen uit mocht brengen) het aantal spelers waarop gestemd is geweest en het gemiddelde aantal stemmen per speler voor de jaren en groeperingen waar er minstens op "Y" spelers gestemd is geweest. 
+Voor deze lijst bekijken we echter enkel spelers die in hun carriere ook manager zijn geweest en geboren zijn na jaar "X". 
 
 Sorteer aflopend op jaartal, alfabetisch op groepering, aflopend op aantal keer gestemd en aflopend op gemiddelde stemmen. 
 
