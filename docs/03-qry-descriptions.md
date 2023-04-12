@@ -119,7 +119,7 @@ Bouw daarna een tweede query die alle resultaten van deze geupdate tabel terugge
 
 **Beschrijving**
 
-Maak een tabel met per speler de achternaam en de voornaam. 
+Maak een lijst (geen nieuwe tabel!) met per speler de achternaam en de voornaam. 
 We willen dit enkel voor de spelers die bij alle teams pitcher zijn geweest die in jaar "X" meer dan "Y" wins hadden.
 Sorteer alfabetisch op achternaam en voornaam.  
 
