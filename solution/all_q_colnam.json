@@ -1,5 +1,5 @@
 {"query_01": ["last_name", "first_name", "height"], 
-"query_02": ["last_name", "first_name","country_death","age"], 
+"query_02": ["last_name", "first_name","age","country_death"], 
 "query_03":["last_name","first_name","year_of_birth","name_of_team","year","teamWins","managerLosses"], 
 "query_04": ["year","group","vote_count","vote_mean"], 
 "query_05": ["last_name", "first_name", "year_of_birth"], 
