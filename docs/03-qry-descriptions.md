@@ -18,7 +18,7 @@ Sorteer achtereenvolgens oplopend op leeftijd, alfabetisch op voornaam, alfabeti
 
 **Beschrijving**
 
-Maak een lijst met alle managers die tussen jaar "X" en "Y" (beiden inclusief) als "Z"<sup>e</sup> manager in het seizoen gewerkt hebben voor een team dat meer gewonnen is dan verloren, maar waar de manager in dat jaar met de ploeg meer heeft verloren dan gewonnen. 
+Maak een lijst met alle managers die tussen jaar "X" en "Y" (beiden inclusief) als "Z"<sup>e</sup> manager in het seizoen gewerkt hebben voor een team dat meer gewonnen is dan verloren, maar waar de manager in dat jaar (als "Z"<sup>e</sup> manager) met de ploeg meer heeft verloren dan gewonnen. 
 
 Van deze managers willen we de achternaam, voornaam, geboortejaar, de teamnaam, het jaar waarin de manager voor het team werkte, het procentueel aantal gewonnen matchen van het team in dat jaar en het procentueel aantal verloren matchen van de manager met het team in dat jaar. 
 
