@@ -74,7 +74,7 @@ Sorteer alfabetisch op achternaam en voornaam, oplopend op jaar en aflopend op a
 
 We willen een lijst van alle spelers die:
 
--naar dezelfde school zijn gegaan als de manager die het team van de speler leidde in het allereerste jaar dat de speler als pitcher speelde in zijn carrière. In dat jaar was pitcher ook de eerste positie (stint) van de speler. 
+-naar dezelfde school zijn gegaan als een manager die het team van de speler leidde in het allereerste jaar dat de speler als pitcher speelde in zijn carrière. In dat jaar was pitcher ook de eerste positie (stint) van de speler. 
 
 -"X" jaar nadat ze voor het laatst pitcher waren als batter gespeeld hebben (X kan ook negatief zijn)
 
